@@ -1,0 +1,73 @@
+/* Place your CSS styles in this file */
+
+body {background-color: rgb(246, 245, 242);
+background-size: cover;
+
+
+.header{
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    color: chocolate;
+}
+
+marquee {color: pink;
+}
+
+
+p {
+   text-align: center;
+   font-style: oblique;
+   color: black;
+}
+
+
+h4 {
+    text-align: center;
+    color: rgb(244, 138, 154);
+}
+
+
+.p2 {
+    text-align: right;
+}
+
+.p4 { text-align: right;
+}
+
+ul {list-style-type: none;
+
+}
+
+li {display:inline;
+color: rgb(255, 221, 227);padding: 15px;
+background-color: rgb(244, 138, 154);
+opacity: 2;
+transition: opacity 0.5s;
+margin-bottom: 10px;
+border-radius: 30px;
+}
+
+nav {
+display: flex;
+background-color: pink;
+justify-content: space-between;
+padding: 1rem 2rem;
+}
+
+nav ul {
+display: flex;
+gap: 2rem;
+list-style-type: none;
+align-items: center;
+}
+
+
+
+
+
+
+
